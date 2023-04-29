@@ -18,3 +18,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 The Aspiring Minds team for providing the AMEO dataset.
+<div style = 'center'>
+*** Special thanks to Innomatics Research Labs ***
+  </div>
