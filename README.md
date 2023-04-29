@@ -1,4 +1,4 @@
-# aspiring-minds-employment-outcome-Data-Analysis
+# Aspiring Minds Employment Outcome Data Analysis
 This project is a data analysis of the Aspiring Minds Employment Outcome (AMEO) dataset, which contains information on the employment outcomes of Indian graduates. The aim of this project is to explore the dataset, identify patterns and relationships, and build models to predict various employment outcomes.
 
 ## Getting Started
